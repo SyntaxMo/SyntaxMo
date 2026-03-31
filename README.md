@@ -1,8 +1,8 @@
 <h1>Hi, I'm Mohammed Essam</h1>
-<h4>Software Engineering student passionate about building real-world applications and solving problems through code.</h4>
-
-I’m currently working on **INFAQ – An AI-powered personal finance application**  
-Aiming to help users better understand and manage their financial decisions.
+Software Engineering student passionate about building real-world applications and solving problems through code.
+<br></br>
+I’m currently working on INFAQ – An AI-powered personal finance application, 
+aiming to help users better understand and manage their financial decisions.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
